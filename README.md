@@ -2,9 +2,9 @@
   <img src='https://user-images.githubusercontent.com/45350572/138070856-731c849a-466b-41a2-b39d-c5b5e76e94fa.png' alt='Vitailse - Opinionated Vite Starter Template with TailwindCSS' width='300'/>
 </p>
 
-Opinionated Vite starter template with [TailwindCSS](https://tailwindcss.com/) 
+Opinionated Vite starter template with [TailwindCSS](https://tailwindcss.com/)
 
-Inspired by [Vitesse](https://github.com/antfu/vitesse) ❤
+Inspired by [Vitesse](https://github.com/antfu/vitesse) and cloned from [zynth17](https://github.com/zynth17/vitailse) with ❤
 
 ## Features
 
@@ -31,7 +31,7 @@ Inspired by [Vitesse](https://github.com/antfu/vitesse) ❤
 - 📥 [APIs auto importing](https://github.com/antfu/unplugin-auto-import) - use Composition API and others directly
 
 - 🖨 Server-side generation (SSG) via [vite-ssg](https://github.com/antfu/vite-ssg)
-  
+
 - 🦔 Critical CSS via [critters](https://github.com/GoogleChromeLabs/critters)
 
 - 🦾 TypeScript, of course
@@ -47,7 +47,7 @@ Inspired by [Vitesse](https://github.com/antfu/vitesse) ❤
 
 ### Icons
 
-- [Iconify](https://iconify.design) - use icons from any icon sets 
+- [Iconify](https://iconify.design) - use icons from any icon sets
 - [`unplugin-icons`](https://github.com/antfu/unplugin-icons) - icons as Vue components
 
 ### Plugins
@@ -90,8 +90,8 @@ Inspired by [Vitesse](https://github.com/antfu/vitesse) ❤
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit zynth17/vitailse my-vitailse-app
-cd my-vitailse-app
+npx degit ecosisLaboratories/vue3-pwa-boilerplate my-vue-pwa
+cd my-vue-pwa
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
 

@@ -1,11 +1,11 @@
 {
-	"name": "@zynth/vitailse",
-	"description": "Vite starter template with TailwindCSS",
+	"name": "ecosisLaboratories/vue3-pwa-boilerplate",
+	"description": "Vite starter PWA template with TailwindCSS",
 	"version": "0.1.0",
 	"main": "src/main.ts",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/zynth17/vitailse.git"
+		"url": "git+https://github.com/ecosisLaboratories/vue3-pwa-boilerplate.git"
 	},
 	"keywords": [
 		"vitailse",
@@ -16,9 +16,9 @@
 	"author": "Christopher Reeeve",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/zynth17/vitailse/issues"
+		"url": "https://github.com/ecosisLaboratories/vue3-pwa-boilerplate/issues"
 	},
-	"homepage": "https://github.com/zynth17/vitailse#readme",
+	"homepage": "https://github.com/ecosisLaboratories/vue3-pwa-boilerplate#readme",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite-ssg build",
